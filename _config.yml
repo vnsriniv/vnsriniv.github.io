@@ -31,6 +31,7 @@ plugins:
   - jekyll-remote-theme
 
 accent_image: /assets/bg.png
+logo: /assets/me.png
 #Pages in header order
 #header-pages:
 #  - 1-research.md

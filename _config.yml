@@ -23,11 +23,12 @@ google_analytics: UA-121787867-1
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-hydejack
+remote_theme: qwtel/hydejack@gem-7.5.1
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-avatar
+  - jekyll-remote-theme
 
 accent_image: /assets/bg.png
 #Pages in header order

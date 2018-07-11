@@ -9,16 +9,16 @@ permalink: /research/
 
 * [Current Research](#current-research)
 	* [Optimizing Phosphorus Removal from Wastewater](#optimizing-phosphorus-removal-from-wastewater)
-		* [*Enhanced Biological Phosphorus Removal (EBPR)*](#enhanced-biological-phosphorus-removal-ebpr)
-		* [*Side-Stream EBPR*](#side-stream-ebpr)
-		* [*PAOs*](#paos)
-		* [*Glycogen Accumulating Organisms (GAOs)*](#glycogen-accumulating-organisms-gaos)
+		* [Enhanced Biological Phosphorus Removal (EBPR)](#enhanced-biological-phosphorus-removal-ebpr)
+		* [Side-Stream EBPR](#side-stream-ebpr)
+		* [PAOs](#paos)
+		* [Glycogen Accumulating Organisms (GAOs)](#glycogen-accumulating-organisms-gaos)
 	* [Simultaneous Nitrogen and Phosphorus Removal](#simultaneous-nitrogen-and-phosphorus-removal)
 	* [P-Cycling in Natural Environments](#p-cycling-in-natural-environments)
 * [Previous Research](#previous-research)
 	* [Microbial Fuel Cells (MFCs)](#microbial-fuel-cells-mfcs)
-		* [*Effect of Nitrate on Anode-Respiring Communities in MFCs*](#effect-of-nitrate-on-anode-respiring-communities-in-mfcs)
-		* [*Modelling Intracellular Competition in a Denitrifying Biocathode*](#modelling-intracellular-competition-in-a-denitrifying-biocathode)
+		* [Effect of Nitrate on Anode-Respiring Communities in MFCs](#effect-of-nitrate-on-anode-respiring-communities-in-mfcs)
+		* [Modelling Intracellular Competition in a Denitrifying Biocathode](#modelling-intracellular-competition-in-a-denitrifying-biocathode)
 	* [Fate and Transport of Endocrine Disrupting Compounds (EDCs) and Pharmaceuticals and Personal Care Products (PPCPs)](#fate-and-transport-of-endocrine-disrupting-compounds-edcs-and-pharmaceuticals-and-personal-care-products-ppcps)
 
 <!-- /code_chunk_output -->
@@ -28,25 +28,22 @@ Microorganisms possess an incredible variety of metabolisms. They are extremely 
 ## Optimizing Phosphorus Removal from Wastewater
 
 ### *Enhanced Biological Phosphorus Removal (EBPR)*
-EBPR is a process which utilizes the metabolic capability of PAOs to release P during anaerobic periods and uptake the P and store it as polyphosphate during aerobic periods to remove P from wastewater.  can read more more detailed information on how this process works [here](/ebpr). Since PAOs are critical to the performance of this process, understanding their metabolism can help optimize the performance and robustness of the process. Most importantly, PAOs require a sufficient amount of polyhydroxyalkanoates (PHA) in the aerobic process to be able to remove P effectively. This requires a sufficient supply of carbon (in the form of VFAs) in the anaerobic period. A major issue with the typical EBPR process is that it can have unstable performance when the influent wastewater has low/unreliable carbon content. A lot of wastewater resource recovery facilities (WRRFs) face this issue.
+EBPR is a process which utilizes the metabolic capability of PAOs to release P during anaerobic periods and uptake the P and store it as polyphosphate during aerobic periods to remove P from wastewater.  You can read more more detailed information on how this process works [here](/ebpr). Since PAOs are critical to the performance of this process, understanding their metabolism can help optimize the performance and robustness of the process. Most importantly, PAOs require a sufficient amount of polyhydroxyalkanoates (PHA) in the aerobic process to be able to remove P effectively. This requires a sufficient supply of carbon (in the form of VFAs) in the anaerobic period. A major issue with the typical EBPR process is that it can have unstable performance when the influent wastewater has low/unreliable carbon content. A lot of wastewater resource recovery facilities (WRRFs) face this issue.
 
 So an alternate process configuration...
 
-### *Side-Stream EBPR*
-Since influent carbon is an important factor, why not produce it internally in the process? Side-Stream EBPR (S2EBPR) incorporates an anaerobic fermentation reactor in the side-stream to ferment settled sludge from the secondary clarifier (also called return activated sludge (RAS)). In this side-stream reactor (Figure 2), VFAs are produced by fermenting microorganisms which is then simultaneously used by PAOs to form PHA and release P. We have found that the extended time that PAOs spend in the VFA-rich anaerobic side-stream reactor ensures an adequate supply of PHA in their cells for subsequent P uptake in the aerobic reactor (Tooker et al., 2018). This enables the phosphorus removal to happen independent of influent carbon thus ensuring the performance and stability of the process.
-
-[Figure 1]()
-**Figure 1: S2EBPR Process Configuration**
+#### *Side-Stream EBPR*
+Since influent carbon is an important factor, why not produce it internally in the process? Side-Stream EBPR (S2EBPR) incorporates an anaerobic fermentation reactor in the side-stream to ferment settled sludge from the secondary clarifier (also called return activated sludge (RAS)). In this side-stream reactor (Figure 2), VFAs are produced by fermenting microorganisms which is then simultaneously used by PAOs to form PHA and release P. We have found that the extended time that PAOs spend in the VFA-rich anaerobic side-stream reactor ensures an adequate supply of PHA in their cells for subsequent P uptake in the aerobic reactor. This enables the phosphorus removal to happen independent of influent carbon thus ensuring the performance and stability of the process.
 
 
-### *PAOs*
+#### *PAOs*
 Since PAOs are critical to removing P from wastewater, understanding the type of PAOs, their metabolism and their activity is important to optimizing the process. So far, two types of PAOs have been implicated in the EBPR process - *Candidatus (Ca.)* Accumulibacter (hereafter referred to as Accumulibacter) and *Tetrasphaera* spp. Other organisms such as *Ca.* Obscuribacter and *Ca.* Accumulimonas have also been proposed as putative PAOs, even though their relevance to the EBPR process is still unknown. My current research looks at the ecology of PAOs in WRRFs performing both typical EBPR and S2EBPR to elucidate differences in microbial ecology. PAOs also rely on fermenting organsims to breakdown complex organic matter into VFAs, so understanding the inter-species dynamics between these functional groups. I am using a combination of 16s rRNA gene sequencing and metagenomics to characterize the microbial ecology and statistical techniques to elucidate differences.
 
-### *Glycogen Accumulating Organisms (GAOs)*
+#### *Glycogen Accumulating Organisms (GAOs)*
 GAOs are microorganisms that are capable of using VFAs under anaerobic conditions to form PHA without being able to accumulate polyphosphate under aerobic conditions. So they compete for VFAs with PAOs and have a negative impact on P-removal in EBPR processes. It has been hypothesized that S2EBPR may lead to lower relative abundances of GAOs due to higher decay rates and lack of multiple internal polymer stores under anaerobic conditions compared to PAOs. I am currently performing research to evaluate this hypothesis and characterize the ecology of GAOs in S2EBPR facilities.
 
 ## Simultaneous Nitrogen and Phosphorus Removal
-WRRFs face stringent nitrogen (N) and phosphorus (P) limits. Typically processes for N and P removal have been implemented and handled independently due to inherent incompatibilities due to differing carbon requirements. But there are enormous advantages in being able to accomplish both these goals simultaneously. I am currently performing research to integrate EBPR with N-removal processes.
+WRRFs face stringent nitrogen (N) and phosphorus (P) limits. Typically processes for N and P removal have been implemented and handled independently due to inherent incompatibilities due to differing carbon requirements. But there are enormous advantages in being able to accomplish both these goals simultaneously. I am currently performing research to integrate EBPR with N-removal processes, understand fundamental mechanisms that influence its performance and the microbial ecology and dynamics of such an integrated process.
 
 ## P-Cycling in Natural Environments
 I am currently also performing research to characterize the microbial ecology of phosphorus (P) cycling in natural environments. Nutrient loading into natural waters causes a variety of issues such as algal blooms (which can include toxic cyanobacterial blooms) and eutrophication which can be detrimental to aquatic life. Understanding and minimizing P loading to the environment is one of the critical issues facing the environment today. Polyphosphate accumulating organisms (PAOs) accumulate phosphorus intracellularly as polyphosphate in excess of their cellular needs which makes them a critical player in P cycling. Understanding their prevalence and identity along with their activity is very important to assess their impact on P cycling. For this I am developing protocols for performing flourescence-assisted cell sorting (FACS) and activity tests which can be used in conjunction with 16S rRNA gene sequencing and Omic techniques.

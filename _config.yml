@@ -5,7 +5,8 @@ author:
   social:
     twitter: vnsriniv
     github: vnsriniv
-    #linkedin: www.linkedin.com/in/vnsriniv
+    email: mailto:vnsriniv@gmail.com
+    linkedin: www.linkedin.com/in/vnsriniv
   picture:
     path: /assets/me.png
 description: #> # this means to ignore newlines until "baseurl:"

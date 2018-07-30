@@ -6,7 +6,7 @@ permalink: /teaching/
 
 
 #### Instructor, College of Engineering, University of Massachusetts-Amherst (Fall 2015)
-**Course:**
+**Courses:**
 - ENGIN 191 Freshman Seminar.
 
 Developed and delivered course content covering technical introductory engineering as well as student success material.  

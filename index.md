@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-My name is Varun Srinivasan and this is my personal website. Feel free to look around and [email](mailto:vnsriniv@gmail.com) me if you have any questions.
+My name is Varun Srinivasan and I am a postdoctoral research associate in Northeastern University. This is my personal website. Feel free to look around and [email](mailto:vnsriniv@gmail.com) me if you have any questions.
 
-![photo](/assets/me2.png){:height="275px" width="250px"}
+![photo](/assets/me2.png){:height="275px" width="275px"}

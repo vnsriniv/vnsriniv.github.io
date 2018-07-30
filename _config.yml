@@ -30,7 +30,7 @@ plugins:
   - jekyll-avatar
   - jekyll-remote-theme
 
-accent_image: /assets/bg.png
+accent_image: /assets/oldschool-bg.png
 logo: /assets/me.png
 #Pages in header order
 #header-pages:

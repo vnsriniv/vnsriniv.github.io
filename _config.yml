@@ -1,7 +1,6 @@
 title: Varun Srinivasan
 author:
   name: Varun Srinivasan
-
   picture:
     path: /assets/me.png
 description: #> # this means to ignore newlines until "baseurl:"
@@ -9,10 +8,10 @@ description: #> # this means to ignore newlines until "baseurl:"
 
 url: "https://vnsriniv.github.io"
 baseurl: /
-#twitter_username: vnsriniv
-#github_username:  vnsriniv
-#linkedin: Varun Srinivasan
-#title_image: https://pbs.twimg.com/media/Dgd2h1NVAAA80QZ.jpg
+twitter_username: vnsriniv
+github_username:  vnsriniv
+linkedin: Varun Srinivasan
+title_image: https://pbs.twimg.com/media/Dgd2h1NVAAA80QZ.jpg
 
 google_analytics: UA-121787867-1
 

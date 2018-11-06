@@ -3,19 +3,11 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+
+Please see below for a list of my publications. If you are not able to access the full-text of the publications, please feel free to contact me at [vnsriniv@gmail.com](mailto:vnsriniv@gmail.com)
+
 [Google Scholar Profile](https://scholar.google.com/citations?user=PaJVx5UAAAAJ&hl=en)
-
-## Preprints
-#### Survey of Full Scale Side-Stream EBPR Facilities and Comparison with Conventional EBPR: Process Stability, Kinetics and Microbial Ecology
-Published as a preprint in *Preprints*, 2018
-
-Citation: Onnis-Hayden, A **\***., **Srinivasan, V \***., Tooker, N.B., Li, G., Wang, D., Gu, A.Z. [Survey of Full Scale Side-Stream EBPR Facilities and Comparison with Conventional EBPR: Process Stability, Kinetics and Microbial Ecology.](https://www.preprints.org/manuscript/201808.0241/v1) Preprints 2018, 2018080241. doi:10.20944/preprints201808.0241.v1. **\*Co-first authors**
-
-#### A Full-Scale Comparative Study of Conventional and Side-Stream Enhanced Biological Phosphorus Removal Processes
-Published as a preprint in *Preprints*, 2018
-
-Citation: Wang, D., Tooker, N.B., **Srinivasan, V.**, Li, G., Schauer, P., Menniti, A., Maher, C., Bott, C.B., Dombrowski, P., Barnard, J.L., Onnis-Hayden, A., Gu, A.Z. [A Full-Scale Comparative Study of Conventional and Side-Stream Enhanced Biological Phosphorus Removal Processes.](https://www.preprints.org/manuscript/201808.0250/v1) Preprints 2018, 2018080250. doi: 10.20944/preprints201808.0250.v1
-
 
 ## Peer-Reviewed Journal Articles
 
@@ -44,4 +36,13 @@ Published in *Journal- American Water Works Association*, 2016.
 
 Citation: Hagemann, M., Park, M., **Srinivasan, V**., Reckhow, D.A., Lavine, M., Stanford, B.D., Park, M.-H., 2016. [Co-occurrences of EDCs / PPCPs in surface water using Chemometrics.](https://onlinelibrary.wiley.com/doi/abs/10.5942/jawwa.2016.108.0042) Journal- American Water Works Association. 205–220.
 
-If you are not able to access the full-text of the publications, please feel free to contact me at [vnsriniv@gmail.com](mailto:vnsriniv@gmail.com)
+## Preprints
+#### Survey of Full Scale Side-Stream EBPR Facilities and Comparison with Conventional EBPR: Process Stability, Kinetics and Microbial Ecology
+Published as a preprint in *Preprints*, 2018
+
+Citation: Onnis-Hayden, A **\***., **Srinivasan, V \***., Tooker, N.B., Li, G., Wang, D., Gu, A.Z. [Survey of Full Scale Side-Stream EBPR Facilities and Comparison with Conventional EBPR: Process Stability, Kinetics and Microbial Ecology.](https://www.preprints.org/manuscript/201808.0241/v1) Preprints 2018, 2018080241. doi:10.20944/preprints201808.0241.v1. **\*Co-first authors**
+
+#### A Full-Scale Comparative Study of Conventional and Side-Stream Enhanced Biological Phosphorus Removal Processes
+Published as a preprint in *Preprints*, 2018
+
+Citation: Wang, D., Tooker, N.B., **Srinivasan, V.**, Li, G., Schauer, P., Menniti, A., Maher, C., Bott, C.B., Dombrowski, P., Barnard, J.L., Onnis-Hayden, A., Gu, A.Z. [A Full-Scale Comparative Study of Conventional and Side-Stream Enhanced Biological Phosphorus Removal Processes.](https://www.preprints.org/manuscript/201808.0250/v1) Preprints 2018, 2018080250. doi: 10.20944/preprints201808.0250.v1

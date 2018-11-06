@@ -4,7 +4,9 @@ author:
   picture:
     path: /assets/me.png
 description: #> # this means to ignore newlines until "baseurl:"
-  Environmental Engineer, Microbial Resource Manager, Bioinformatics-Enthusiast, R-Nerd, Amateur Chef and DIY-Lover!
+  Postdoc @ Northeastern University-Boston MA,
+  Environmental Engineer,
+  Microbial Resource Manager
 
 url: "https://vnsriniv.github.io"
 baseurl: /

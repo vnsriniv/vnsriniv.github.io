@@ -13,7 +13,6 @@ baseurl: /
 twitter_username: vnsriniv
 github_username:  vnsriniv
 linkedin: Varun Srinivasan
-title_image: https://pbs.twimg.com/media/Dgd2h1NVAAA80QZ.jpg
 
 google_analytics: UA-121787867-1
 
@@ -29,6 +28,9 @@ plugins:
 
 accent_image: /assets/bg.png
 logo: /assets/me.png
+
+copyright:
+  © Varun Srinivasan, 2018
 #Pages in header order
 #header-pages:
 #  - 1-research.md

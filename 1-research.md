@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
+Microorganisms possess an incredible variety of metabolisms. They are extremely versatile and capable of using many different kinds of "food" while being able to survive in extreme environments. Broadly speaking, my research is focused on understanding, characterizing and harnessing these metabolisms to solve environmental issues.
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
@@ -21,7 +22,7 @@ permalink: /research/
 	* [Fate and Transport of Endocrine Disrupting Compounds (EDCs) and Pharmaceuticals and Personal Care Products (PPCPs)](#fate-and-transport-of-endocrine-disrupting-compounds-edcs-and-pharmaceuticals-and-personal-care-products-ppcps)
 
 <!-- /code_chunk_output -->
-Microorganisms possess an incredible variety of metabolisms. They are extremely versatile and capable of using many different kinds of "food" while being able to survive in extreme environments. Broadly speaking, my research is focused on understanding, characterizing and harnessing these metabolisms to solve environmental issues.
+
 
 # Current Research
 ## Optimizing Phosphorus Removal from Wastewater

@@ -11,7 +11,7 @@ permalink: /publications/
 - Wang, D., Tooker, N.B., **Srinivasan, V.**, Li, G., Schauer, P., Menniti, A., Maher, C., Bott, C.B., Dombrowski, P., Barnard, J.L., Onnis-Hayden, A., Gu, A.Z. [A Full-Scale Comparative Study of Conventional and Side-Stream Enhanced Biological Phosphorus Removal Processes.](https://www.preprints.org/manuscript/201808.0250/v1) Preprints 2018, 2018080250. doi: 10.20944/preprints201808.0250.v1
 
 
-## Peer-Review Journal Articles
+## Peer-Reviewed Journal Articles
 - Mohan, A., **Srinivasan, V.N.**, Reckhow, D.A. Occurrence and persistence of halobenzoquinones: A case study using 2,6-dichloro-1,4-benzoquinone. Submitted to AWWA Water Science.
 
 - Stauch-White, K., **Srinivasan, V.N**., Camilla Kuo-Dahab, W., Park, C., Butler, C.S., 2017. [The role of inorganic nitrogen in successful formation of granular biofilms for wastewater treatment that support cyanobacteria and bacteria.](https://link.springer.com/article/10.1186/s13568-017-0444-8) AMB Express 7. doi:10.1186/s13568-017-0444-8

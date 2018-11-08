@@ -5,5 +5,3 @@
 layout: home
 ---
 I am an environmental engineer and microbiologist interested in solving environmental issues. I am currently a postdoctoral research associate at Northeastern University, Boston MA. This is my personal website. Feel free to look around and [email](mailto:vnsriniv@gmail.com) me if you have any questions.
-
-![photo](/assets/me2.png){:height="275px" width="275px"}

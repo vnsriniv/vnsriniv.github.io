@@ -25,6 +25,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-avatar
   - jekyll-remote-theme
+  - jekyll-paginate
 
 accent_image: /assets/bg.png
 logo: /assets/me.png

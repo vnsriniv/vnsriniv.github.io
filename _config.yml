@@ -4,13 +4,12 @@ author:
   picture:
     path: /assets/me.png
 description: #> # this means to ignore newlines until "baseurl:"
-  Postdoc @ Northeastern University-Boston MA,
-  Environmental Engineer,
-  Microbial Resource Manager
+  Data Scientist
+  Product Leader
+  Engineer
 
 url: "https://vnsriniv.github.io"
 baseurl: /
-twitter_username: vnsriniv
 github_username:  vnsriniv
 linkedin: Varun Srinivasan
 
@@ -19,7 +18,7 @@ google_analytics: UA-121787867-1
 # Build settings
 markdown: kramdown
 #theme: minima
-remote_theme: qwtel/hydejack@v8.0.0
+remote_theme: qwtel/hydejack@v9.1.6
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -31,7 +30,7 @@ accent_image: /assets/bg.png
 logo: /assets/me.png
 
 copyright:
-  © Varun Srinivasan, 2018
+  © Varun Srinivasan, 2024
 #Pages in header order
 #header-pages:
 #  - 1-research.md

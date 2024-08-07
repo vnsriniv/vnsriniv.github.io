@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-I am an environmental engineer and microbiologist interested in solving environmental issues. I am currently a postdoctoral research associate at Northeastern University, Boston MA. This is my personal website. Feel free to look around and [email](mailto:vnsriniv@gmail.com) me if you have any questions.
+I am a product leader and data scientist interested in viewing the world through the lens of data. I am an engineer by education with a undergraduate degree in Industrial Biotechnology, and a doctorate in Environmental Engineering. I have performed research in water and wastewater treatment, microbial ecology and bioinformatics. I worked professionally as a consulting engineer helping design and upgrade wastewater utilies in the United States. Feel free to look around and [email](mailto:vnsriniv@gmail.com) me if you have any questions.
